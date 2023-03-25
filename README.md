@@ -1,3 +1,3 @@
-# EjercicioClase5
+# EjercicioClase6
 
-Resolucion al ejercicio de la claase 5
+Resolucion al ejercicio de la clase 6
